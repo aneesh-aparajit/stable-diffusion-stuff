@@ -1,0 +1,11 @@
+torch
+torchvision
+pytorch_lightning
+diffusers
+transformers
+tokenizers
+tqdm
+albumentations
+wandb
+accelerate
+# -e .
